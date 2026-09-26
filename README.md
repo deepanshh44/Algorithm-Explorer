@@ -113,4 +113,3 @@ Algorithm-Explorer/
 │
 ├── README.md
 ├── statement.md
-└── requirements.txt
