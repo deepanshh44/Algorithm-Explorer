@@ -7,9 +7,6 @@ from modules.recursion import factorial, fibonacci, tower_of_hanoi
 from modules.complexity import get_complexity
 
 
-# ---------------------------------------------------------------------------
-# WEB-SLINGER THEME (minimal red / black / white, cyan accent)
-# ---------------------------------------------------------------------------
 BG_BLACK = "#0a0a0a"
 PANEL_BLACK = "#0a0a0a"
 RED = "#c8102e"
